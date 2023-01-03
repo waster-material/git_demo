@@ -14,3 +14,6 @@ int main(){
     printf("helloworld");main_branch test
    
 }
+#!/bin/bash
+A=100
+echo "$A"
