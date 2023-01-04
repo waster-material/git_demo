@@ -17,3 +17,5 @@ int main(){
 #!/bin/bash
 A=100
 echo "$A"
+B=200
+echo "$B"
